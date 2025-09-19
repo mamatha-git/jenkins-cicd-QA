@@ -1,4 +1,4 @@
-NOTE: While I have prepared all the questions, to provide better answers in a detailed way, the summary provided below is the collection of my knowledge and information from various sources like Medium, Stack Overflow, ChatGPT.
+# NOTE: While I have prepared all the questions, to provide better answers in a detailed way, the summary provided below is the collection of my knowledge and information from various sources like Medium, Stack Overflow, ChatGPT.
 Q: Can you explain the CICD process in your current project ? or Can you talk about any CICD process that you have implemented ?
 
 A: In the current project we use the following tools orchestrated with Jenkins to achieve CICD.
@@ -118,4 +118,4 @@ When a Jenkins agent is launched using JNLP, it connects to the Jenkins master a
 
 Q: What are some of the common plugins that you use in Jenkins ?
 
-A: Be prepared for answer, you need to have atleast 3-4 on top of y
+A: Be prepared for answer, you need to have atleast 3-4 on top of your head, so that interview feels you use jenkins on a day-to-day basis.
